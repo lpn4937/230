@@ -18,10 +18,13 @@ Mouse:
 - Left mouse used to select items
 - Right mouse used for information and stats
 ### Teaching the Game
-The concept of the game is already relatively simple, but the users will be give brief promts that direct the user in the right direction.
+The concept of the game is already relatively simple, but the users will be given brief promts that direct the user in the right direction.
 ### Player Learning
-For the player on defence, they need to learn the weakness of different units and what towers work better at which units, the player also needs to learn where is best to place towers. The attacking player similarly learns the weaknesses in the defending players defences. And chooses which units to use based on how the previous wave went.
+ - For the player on defence, they need to learn the weakness of different units and what towers work better at which units, the player also needs to learn where is best to place towers. 
+ - The attacking player similarly learns the weaknesses in the defending players defences. And chooses which units to use based on how the previous wave went.
 ## Screenshots
+![Wave stage concept](https://people.rit.edu/lpn4937/230/project1/media/P01-GameConceptImage.jpg)
+![Attack planning concept](https://people.rit.edu/lpn4937/230/project1/media/P01-AttackConceptImage.jpg)
 ## Other
 N/A
 ## About the Developer
