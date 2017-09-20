@@ -1,4 +1,5 @@
 # Game
+Tenacious Tower Defence
 ## High Concept
 A two player tower defence!
 ## Genre
@@ -8,7 +9,7 @@ Universal
 ## Story
 The King must defend the outer lands as his enemies from the neighboring kingdom make their way to his castle.
 ## Esthetics
-Esthetics would be realistic but still slightly disproportionate in some ways. All units and towers are viewed from top down. Sound will be 8-bit at best.
+Esthetics would be realistic but still slightly disproportionate in some ways. All units and towers are viewed from top down. Sound will be 8-bit at best. Sounds include sound of towers firing, sounds of units dying or gold being earned, and sounds of victory or defeat.
 ## Gameplay
 ### Mechanics
 The person playing defence has the choice of what towers they can put down, where they want to put the them, and what sort of upgrades they want to apply to the them. Their goal is to counter the enemy forces. They receive money for killing enemy units.
