@@ -7,7 +7,7 @@ Defence, Strategy/ Real Time Strategy, multiplayer
 ## Platform
 Universal
 ## Story
-The King must defend the outer lands as his enemies from the neighboring kingdom make their way to his castle.
+Longtime rivaling kingdoms engage in constant war with eachother. After years of conflict, one side finally starts to break into the other's defences and it apears as though victory is at hand. Can the defending kingdom stave off the attackers before they are destroyed?
 ## Esthetics
 Esthetics would be realistic but still slightly disproportionate in some ways. All units and towers are viewed from top down. Sound will be 8-bit at best. Sounds include sound of towers firing, sounds of units dying or gold being earned, and sounds of victory or defeat.
 ## Gameplay
